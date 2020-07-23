@@ -1,5 +1,7 @@
 Rcer，又一个[https://ruby-china.org](https://ruby-china.org)的客户端，也许支持[https://gethomeland.com/](https://gethomeland.com/)
 
+![截屏](screenshots/all.png)
+
 开发计划
 * 优化新增话题中选择节点的页面
 * markdown支持table
